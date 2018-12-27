@@ -4,5 +4,5 @@
 
 #### PROBLEM 1：
 
-[1_RemoveGame]: problem\1_RemoveGame.html
+[1_RemoveGame](problem\1_RemoveGame.html)
 
